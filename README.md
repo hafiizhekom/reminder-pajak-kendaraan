@@ -1,6 +1,6 @@
 # Vehicle Tax Reminder
 
-A Laravel-based web application to help users manage vehicle data and remind them of vehicle tax payment schedules.
+A Laravel 6-based web application to help users manage vehicle data and remind them of vehicle tax payment schedules.
 
 ## Features
 
@@ -24,3 +24,5 @@ A Laravel-based web application to help users manage vehicle data and remind the
 
 - Make sure to fill in the database configuration in the `.env` file
 - For SMS notifications, provide the Twilio configuration in the `.env` file
+
+> **Note:** This project uses Laravel version 6.
